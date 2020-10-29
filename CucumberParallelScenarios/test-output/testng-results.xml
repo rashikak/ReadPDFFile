@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="15" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6928" started-at="2020-10-29T16:39:36Z" finished-at="2020-10-29T16:39:43Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="6928" started-at="2020-10-29T16:39:36Z" finished-at="2020-10-29T16:39:43Z">
+      <class name="stepdefinitions.RunParallel">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="setUpClass" is-config="true" duration-ms="534" started-at="2020-10-29T16:39:36Z" finished-at="2020-10-29T16:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3316" started-at="2020-10-29T16:39:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Number Three"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ScenariosExample Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3310" started-at="2020-10-29T16:39:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Number One"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ScenariosExample Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3310" started-at="2020-10-29T16:39:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Number Two"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ScenariosExample Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3309" started-at="2020-10-29T16:39:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Number Five"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ScenariosExample Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3309" started-at="2020-10-29T16:39:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Number Eight"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ScenariosExample Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3309" started-at="2020-10-29T16:39:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Number Seven"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ScenariosExample Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3309" started-at="2020-10-29T16:39:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Number Four"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ScenariosExample Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3309" started-at="2020-10-29T16:39:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Number Six"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ScenariosExample Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3314" started-at="2020-10-29T16:39:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Number Ten"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ScenariosExample Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3308" started-at="2020-10-29T16:39:36Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Number Nine"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[ScenariosExample Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3016" started-at="2020-10-29T16:39:40Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Multiple Rows Parallel"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Outlines Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3015" started-at="2020-10-29T16:39:40Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Multiple Rows Parallel"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Outlines Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3011" started-at="2020-10-29T16:39:40Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Multiple Rows Parallel"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Outlines Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3011" started-at="2020-10-29T16:39:40Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Multiple Rows Parallel"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Outlines Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="runScenario" duration-ms="3008" started-at="2020-10-29T16:39:40Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2020-10-29T16:39:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Multiple Rows Parallel"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Outlines Example Feature File]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:stepdefinitions.RunParallel@4f7d0008]" name="tearDownClass" is-config="true" duration-ms="21" started-at="2020-10-29T16:39:43Z" finished-at="2020-10-29T16:39:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- stepdefinitions.RunParallel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
