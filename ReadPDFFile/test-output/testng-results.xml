@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8593" started-at="2020-10-30T10:15:37Z" finished-at="2020-10-30T10:15:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8593" started-at="2020-10-30T10:15:37Z" finished-at="2020-10-30T10:15:46Z">
+      <class name="ReadPDFFile.ReadPDFFile.DownloadPdf">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ReadPDFFile.ReadPDFFile.DownloadPdf@4dfa3a9d]" name="setUp" is-config="true" duration-ms="3122" started-at="2020-10-30T10:15:37Z" finished-at="2020-10-30T10:15:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="downloadPdf()[pri:0, instance:ReadPDFFile.ReadPDFFile.DownloadPdf@4dfa3a9d]" name="downloadPdf" duration-ms="4054" started-at="2020-10-30T10:15:40Z" finished-at="2020-10-30T10:15:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadPdf -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ReadPDFFile.ReadPDFFile.DownloadPdf@4dfa3a9d]" name="tearDown" is-config="true" duration-ms="1397" started-at="2020-10-30T10:15:44Z" finished-at="2020-10-30T10:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ReadPDFFile.ReadPDFFile.DownloadPdf -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
